@@ -1,0 +1,43 @@
+{
+  "name": "reso-libRETS",
+  "description": "A node.js driver for libRETS",
+  "keywords": [
+    "libRETS",
+    "rets",
+    "driver",
+    "mls",
+    "real estate",
+    "reso"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Mark Lesswing",
+    "email": "mlesswing@crt.realtors.org"
+  },
+  "contributors": [
+    {
+      "name": "Keith Garner"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""https://github.com/mlesswing/reso-librets.git""
+  },
+  "bugs": {
+    "url": "http://github.com/mongodb/node-mongodb-native/issues"
+  },
+  "dependencies": {
+    "bson": "0.2.5",
+    "kerberos": "0.0.3"
+  },
+  "engines": {
+    "node": ">=0.10.28"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://blogs.crt.realtor.org"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
